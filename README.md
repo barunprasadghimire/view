@@ -3,10 +3,11 @@
 
   ## TestCases.xlsx: 
   The file contains test cases for hexyl application. It covers feature, negative and performance areas. 
-                  Results: section will be populated with Pass,Fail,Blocking,Non-Applicable. 
-                  Bug-ID: will be provided whenever a test failed or blocked. 
-                  Test duration: Time is calculated as best case scenarios, with the expection that the feature is working. It                   doesn't account time involved on debugging and working with developers. 
-                  Automation Candidate: Automation candidate are labled as Y or N. All those Y testcases will be automated.
+  
+  ##### Results: section will be populated with Pass,Fail,Blocking,Non-Applicable. 
+  ##### Bug-ID: will be provided whenever a test failed or blocked. 
+  ##### Test duration: Time is calculated as best case scenarios, with the expection that the feature is working. It                   doesn't account time involved on debugging and working with developers. 
+ #####  Automation Candidate: Automation candidate are labled as Y or N. All those Y testcases will be automated.
                   
   ## TestEfforts.xlsx: 
   This file contains efforts for each area:
